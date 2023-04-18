@@ -1,2 +1,2 @@
 # OpenaiEmbedding
-Convert Credit Scoring data into embedding vector
+The main objective was to covert credit scoring data into embedding vector using Openai.
